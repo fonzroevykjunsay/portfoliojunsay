@@ -1,7 +1,7 @@
 <html>
 <head>
 <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic|Raleway&display=swap" rel="stylesheet">
-<link href="portfolio/css/style1.css" rel="stylesheet"type="text/css">
+<link href="portfoliojunsay/css/style1.css" rel="stylesheet"type="text/css">
 <meta charset="utf-8>
 <title>"Junsay"</title>
 </head>
